@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/meet-app/static/css/main.af695b55.css",
+    "main.js": "/meet-app/static/js/main.99a45ad0.js",
+    "static/media/footer-img.png": "/meet-app/static/media/footer-img.472b50c4674828e3181e.png",
+    "static/media/people-2.png": "/meet-app/static/media/people-2.ee3e7462466fcc812589.png",
+    "static/media/card-4.png": "/meet-app/static/media/card-4.6816eb5907e8b4aeced7.png",
+    "static/media/people-1.png": "/meet-app/static/media/people-1.c4ba928615febcbc2bb9.png",
+    "static/media/card-3.png": "/meet-app/static/media/card-3.45969f19b5ebb44a5244.png",
+    "static/media/card-2.png": "/meet-app/static/media/card-2.c46a35a95c600cd1c7c0.png",
+    "static/media/card-1.png": "/meet-app/static/media/card-1.af901a94574183557a75.png",
+    "static/media/meet-logo.svg": "/meet-app/static/media/meet-logo.c540aa4e14798f041e95edb437a1e91b.svg",
+    "static/media/nav-btn2.svg": "/meet-app/static/media/nav-btn2.f156887ebddfb0e5254e240cc085cc5b.svg",
+    "static/media/nav-btn.svg": "/meet-app/static/media/nav-btn.b7889f758dc49e052c488d2b606334eb.svg",
+    "index.html": "/meet-app/index.html",
+    "main.af695b55.css.map": "/meet-app/static/css/main.af695b55.css.map",
+    "main.99a45ad0.js.map": "/meet-app/static/js/main.99a45ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af695b55.css",
+    "static/js/main.99a45ad0.js"
+  ]
+}
